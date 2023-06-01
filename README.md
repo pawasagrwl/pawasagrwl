@@ -8,7 +8,7 @@
         I'm Pawas.<br>
         Currently learning to walk in Rust & Golang through DSA & Projects.<br>
         Also working with MERN and Python to implement ideas.<br>
-        <a href="pawasagrwl.github.io">Checkout my personal portfolio here</a>
+        <a href="https://pawasagrwl.github.io">Checkout my personal portfolio here</a>
     </i><br>
     <!--
     <a href="https://www.linkedin.com/in/wervlad">
