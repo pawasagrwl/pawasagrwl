@@ -6,7 +6,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Pawas.<br>
-        Currently learning to walk in Rust & Goland through DSA & Projects.<br>
+        Currently learning to walk in Rust & Golang through DSA & Projects.<br>
         Also working with MERN and Python to implement ideas.<br>
     </i><br>
     <!--
