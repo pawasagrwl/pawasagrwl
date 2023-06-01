@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World!<img src="https://github.com/pawasagrwl/pawasagrwl/assets/hand" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, World!<img src="https://github.com/pawasagrwl/pawasagrwl/assets/hand.gif" width="28px" alt="👋"></h1>
 
 
 
