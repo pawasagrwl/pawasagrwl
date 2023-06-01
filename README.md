@@ -1,14 +1,15 @@
-<h1 align = "center">Hello, World!<img src="https://github.com/pawasagrwl/pawasagrwl/assets/hand" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, World!<img src="https://github.com/pawasagrwl/pawasagrwl/assets/hand" width="28px" alt="👋"></h1>
 
 
-<!-- 
+
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Pawas.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently learning to walk in Rust & Goland through DSA & Projects.<br>
+        Also working with MERN and Python to implement ideas.<br>
     </i><br>
+    <!--
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -20,10 +21,10 @@
     </a>
     <a href="https://leetcode.com/wervlad">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+    </a> -->
 </p>
 
-### Languages
+<!-- ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
@@ -49,8 +50,8 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+### OS -->
+<!-- [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
 
@@ -75,7 +76,7 @@
   <a href="https://github.com/wervlad">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
-</p>
+</p> -->
 <!--
 
 - 🔭 I’m currently working on ...
@@ -86,4 +87,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
