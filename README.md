@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/pawasagrwl">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
   </a>
 </p>
 
