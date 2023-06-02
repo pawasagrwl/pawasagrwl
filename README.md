@@ -70,7 +70,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawasagrwl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
   <a href="https://github.com/pawasagrwl">
-    <img src="https://github-profile-trophy.vercel.app/?username=pawasagrwl&theme=transparent&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pawasagrwl&theme=darkt&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </p>
 
