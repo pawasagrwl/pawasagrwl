@@ -57,7 +57,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pawasagrwl)
 
 ---
-
+<details>
 <h2 align="center"><b>📊 GitHub Stats<b></h2>
 <p align="center">
   <a href="https://github.com/pawasagrwl">
@@ -84,4 +84,4 @@
   </a>
 </p>
 
-
+</details>
