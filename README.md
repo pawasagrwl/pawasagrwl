@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="gmail">
     </a>
     <a href="https://www.linkedin.com/in/pawasagrwl">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/pawasagrwl/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
