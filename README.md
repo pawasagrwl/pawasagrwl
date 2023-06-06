@@ -55,6 +55,7 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/pawasagrwl)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
+[![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=white)]()
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pawasagrwl)
