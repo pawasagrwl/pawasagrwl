@@ -53,9 +53,10 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/pawasagrwl)
+[![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
-[![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=white)]()
+[![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)]()
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pawasagrwl)
