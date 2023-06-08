@@ -68,17 +68,16 @@
 <h2 align="center"><b>📊 GitHub Stats<b></h2>
 <p align="center">
   <a href="https://github.com/pawasagrwl">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawasagrwl&theme=transparent" />
-  </a>
-  <br/>
-  <a href="https://github.com/pawasagrwl">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawasagrwl&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <br/>
   <a href="https://github.com/pawasagrwl">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawasagrwl&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
   <br/>
+  <a href="https://github.com/pawasagrwl">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawasagrwl&theme=transparent" />
+  </a>
+  </br>
   <a href="https://github.com/pawasagrwl">
     <img src="https://github-profile-trophy.vercel.app/?username=pawasagrwl&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
   </a>
