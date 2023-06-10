@@ -54,6 +54,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/pawasagrwl)
 [![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)]()
+[![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=Heroku&logoColor=%23430098)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)]()
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
