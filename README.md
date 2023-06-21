@@ -36,34 +36,41 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pawasagrwl)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pawasagrwl)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pawasagrwl)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/pawasagrwl)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/pawasagrwl)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/pawasagrwl)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pawasagrwl)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/pawasagrwl)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/pawasagrwl)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/pawasagrwl)
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/pawasagrwl)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pawasagrwl)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/pawasagrwl)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/pawasagrwl)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]()
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
 
-
-### Technologies & Frameworks
+### Frameworks/Libraries
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/pawasagrwl)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/pawasagrwl)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/pawasagrwl)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)]()
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]()
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/pawasagrwl)
-[![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)]()
-[![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=Heroku&logoColor=%23430098)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)]()
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
-[![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)]()
 
-### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pawasagrwl)
+### Databases
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)]()
+
+### Tools/OS
+[![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)]()
+[![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=%230078d7)]()
+[![Linux Shell](https://img.shields.io/badge/linux%20shell-black?style=for-the-badge&logo=linux)]()
+[![Visual Studio](https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91)]()
+[![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=Heroku&logoColor=%23430098)]()
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=%230078D6)](https://github.com/pawasagrwl)
 [![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/pawasagrwl)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pawasagrwl)
+
+### Other
+[![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)]()
 
 ---
 <details>
