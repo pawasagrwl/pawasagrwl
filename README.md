@@ -92,7 +92,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pawasagrwl&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </p>
----
 
 <h3 align="center"><b>✍️ Random Dev Quote<b></h3>
 
