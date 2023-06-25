@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/pawasagrwl">
-    <img src="https://visitcount.itsvg.in/api?id=pawasagrwl&icon=5&color=9" />
+    <img src="https://visitcount.itsvg.in/api?id=pawasagrwl&label=Profile%20Views&color=9&pretty=true" />
   </a>
 </p>
 
