@@ -6,7 +6,7 @@
         I'm Pawas.<br>
         Currently learning to walk in Rust & Golang through DSA & Projects.<br>
         Also working with MERN and Python to implement ideas.<br>
-        <a href="https://pawasagrwl.github.io" target="__blank">Checkout my personal portfolio here</a>
+        <a href="https://pawasagrwl.github.io" target="_blank">Checkout my personal portfolio here</a>
     </i><br><br>
     <a href="mailto:pawas.agrwl@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
