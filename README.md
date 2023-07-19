@@ -103,4 +103,4 @@
 
 </details>
 
-![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg) -->
