@@ -53,10 +53,11 @@
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/pawasagrwl)
 [![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/pawasagrwl)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/pawasagrwl)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
-[![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)]()
-[![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/pawasagrwl)
+[![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)]()
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
+[![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
+[![TailwindCSS](https://img.shields.io/badge/tailindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)]()
 
 
 ### Databases
