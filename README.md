@@ -57,7 +57,7 @@
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
-[![TailwindCSS](https://img.shields.io/badge/tailindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)]()
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)]()
 
 
 ### Databases
