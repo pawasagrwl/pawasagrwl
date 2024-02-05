@@ -4,8 +4,7 @@
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
         I'm Pawas.<br>
-        Currently learning to walk in Rust & Golang through DSA & Projects.<br>
-        Also working with MERN and Python to implement ideas.<br>
+        Currently on a break from programming and software engineering.<br>
         <a href="https://pawasagrwl.github.io" target="_blank">Checkout my personal portfolio here</a>
     </i><br><br>
     <a href="mailto:pawas.agrwl@gmail.com">
@@ -22,11 +21,11 @@
     </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/pawasagrwl">
     <img src="https://visitcount.itsvg.in/api?id=pawasagrwl&label=Profile%20Views&color=9&pretty=true" />
   </a>
-</p>
+</p> -->
 
 ---
 
