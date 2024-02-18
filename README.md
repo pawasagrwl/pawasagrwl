@@ -3,10 +3,11 @@
 <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Pawas.<br>
-        Currently on a break from programming and software engineering.<br>
-        <a href="https://pawasagrwl.github.io" target="_blank">Checkout my personal portfolio here</a>
-    </i><br><br>
+    I'm Pawas.<br>
+    Taking a creative detour from traditional/corporate software engineering, I'm currently exploring innovative projects independently. <br>
+    <a href="https://pawasagrwl.github.io" target="_blank">Check out my personal portfolio here.</a><br>
+    Keen on collaborations and crafting bespoke solutions.<br>
+</i><br><br>
     <a href="mailto:pawas.agrwl@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
@@ -32,6 +33,7 @@
 <h2 align="center"><b>💻 Tech Stack<b></h2>
 
 ### Languages
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pawasagrwl)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pawasagrwl)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pawasagrwl)
@@ -48,6 +50,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
 
 ### Frameworks/Libraries
+
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/pawasagrwl)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/pawasagrwl)
 [![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/pawasagrwl)
@@ -58,11 +61,12 @@
 [![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)]()
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)]()
 
-
 ### Databases
+
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)]()
 
 ### Tools/OS
+
 [![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)]()
 [![VSCode](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=%230078d7)]()
 [![Linux Shell](https://img.shields.io/badge/linux%20shell-black?style=for-the-badge&logo=linux)]()
@@ -74,9 +78,11 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pawasagrwl)
 
 ### Other
+
 [![ChatGPT](https://img.shields.io/badge/chatGPT-black?style=for-the-badge&logo=openai&logoColor=74aa9c)]()
 
 ---
+
 <details>
 <h2 align="center"><b>📊 GitHub Stats<b></h2>
 <p align="center">
